@@ -1,6 +1,6 @@
-# The best player
-
 # Name of the team: The Jordans
+
+# The best NBA player
 
   # Team Members:
 
