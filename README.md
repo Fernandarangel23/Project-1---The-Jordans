@@ -15,10 +15,13 @@ Jan Andrés Castillo Moreno
 There are two main codes:
 
 NBA_API
+
 This code requests the information from the NBA API and determines a Factor which is used to measure the player sample
 
 NBA_Analysis
+
 This code uses the output produced by NBA_API and contains the following 6 plots:
+
 1. Players Age vs Factor
 2. Players Age vs Factor by position
 3. Years Playing Professionally vs Factor
